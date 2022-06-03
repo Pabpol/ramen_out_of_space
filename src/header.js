@@ -7,10 +7,10 @@ export default function () {
 
     header.setAttribute('class', `header`);
     header.setAttribute('id', `Home`);
-    svg.setAttribute('src', '/dist/img/Asset 2.svg')
+    svg.setAttribute('src', '/img/Asset 2.svg')
     svg.setAttribute('class', `svg`);
 
-    svg2.setAttribute('src', '/dist/img/Asset 2.svg')
+    svg2.setAttribute('src', '/img/Asset 2.svg')
     svg2.setAttribute('class', `svg2`);
 
     h1.setAttribute('class', 'title')

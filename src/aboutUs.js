@@ -6,7 +6,7 @@ export default function () {
     aboutUs.setAttribute('class', `about-us`);
     aboutUs.setAttribute('id', `About us`);
 
-    svg3.setAttribute('src', '/dist/img/Asset 2.svg')
+    svg3.setAttribute('src', '/img/Asset 2.svg')
     svg3.setAttribute('class', `svg3`);
    
     h1.setAttribute('class', 'about-us-title')
